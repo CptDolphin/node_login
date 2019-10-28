@@ -10,4 +10,5 @@ To hash the password
 
 ## express
 
-# node_login
+## To start
+npm start
